@@ -10,6 +10,7 @@
 windows10\
 Python3.8.8
 ```
+主なライブラリ
 torchvision==0.10.0
 opencv-python==4.6.0.66
 scipy==1.6.2
