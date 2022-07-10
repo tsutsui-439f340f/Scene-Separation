@@ -19,7 +19,14 @@ scipy==1.6.2
 ## 使い方
 ``` python scene_separation.py "動画ファイル.mp4"```
 
+## サンプル
+
+https://user-images.githubusercontent.com/55880071/178159094-64ba36de-eb38-4ce2-8e8c-1695786f9dd6.mp4
+
+
+
 ## 備考
+
 
 今後、このプログラムの改良として、より激しいシーンにも対応出来るニューラルシーン分離機を作成する予定です。
 
